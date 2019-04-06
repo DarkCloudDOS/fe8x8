@@ -1,0 +1,9 @@
+Archive:  fe8x8.zip
+Zip file size: 15883 bytes, number of entries: 6
+-rw-a--     2.0 fat      938 t- defN 96-Oct-18 11:33 READ.ME!
+-rw-a--     2.0 fat     1088 t- defN 97-Aug-01 00:23 FX8X8.DOC
+-rw-a--     2.0 fat     4247 t- defN 97-Apr-24 17:46 FONT8X8.PAS
+-rw-a--     2.0 fat    30173 t- defN 97-Apr-13 12:27 UTILS.PAS
+-rw-a--     2.0 fat     5174 t- defN 97-Apr-15 14:29 XMODE.PAS
+-rw-a--     2.0 fat    14132 t- defN 97-Aug-01 00:22 FE8X8.PAS
+6 files, 55752 bytes uncompressed, 14359 bytes compressed:  74.2%
